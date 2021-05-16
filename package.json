@@ -7,11 +7,15 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.3",
+    "apexcharts": "^3.26.2",
+    "bootstrap": "^5.0.1",
     "core-js": "^3.6.5",
     "dayjs": "^1.10.4",
     "lodash": "^4.17.21",
     "vue": "^3.0.0",
-    "vue-router": "^4.0.0-0"
+    "vue-router": "^4.0.0-0",
+    "vue3-apexcharts": "^1.4.0"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",
